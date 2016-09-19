@@ -74,3 +74,15 @@ Creative big data service models and applications
 Visionary ideas, long-term challenges, and new research opportunities  
 
 	International Workshop on Intelligent Big Data Systems (IBDS 2016)  
+
+**General Conference Chairs:**
+
+Taghi M. Khoshgoftaar, Florida Atlantic University, USA (khoshgof@fau.edu)  
+Jerry Gao, San Jose State University, USA (jerry.gao@sjsu.edu)  
+
+**Program Committee Chairs:**
+
+Simon Shim, San Jose State University, USA (simon.shim@sjsu.edu)  
+Latifur Khan, University of Texas at Dallas, USA (lkhan@utdallas.edu)  
+YiFeng Zeng, Teesside University, UK (yifeng.zeng.uk@gmail.com)  
+
